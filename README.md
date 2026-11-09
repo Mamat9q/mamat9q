@@ -26,7 +26,7 @@ I'm **Mamat9q**, a Full Stack Developer from Indonesia.
 
 - Twitter/X: [@0xuser01](https://x.com/0xuser01)
 - 
-- Email: ignaciogabrielchiappero@gmail.com
+- Email:
 - 
 
 
