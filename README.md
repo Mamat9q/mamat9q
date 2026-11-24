@@ -38,6 +38,3 @@ Full Stack Developer • Bug Bounty Hunter • Web3 Security Researcher
 </tr>
 </table>
 
-### Let's connect!
-
-[![X](https://img.shields.io/badge/-@0xuser01-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xuser01)
