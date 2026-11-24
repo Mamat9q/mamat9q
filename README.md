@@ -19,7 +19,7 @@ Full Stack Developer • Bug Bounty Hunter • Web3 Security Researcher
 
 ### Stats:
 
-![Mamat9q's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamat9q&show_icons=true)
+![Mamat9q's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamat9q&show_icons=true&hide_rank=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamat9q)
 
