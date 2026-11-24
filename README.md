@@ -32,7 +32,7 @@ Full Stack Developer • Bug Bounty Hunter • Web3 Security Researcher
 
 ### My Workspace
 
-![A Day In My Life](workspace.png)
+<img src="workspace.png" alt="A Day In My Life" width="400">
 
 </td>
 </tr>
