@@ -3,7 +3,7 @@
 Full Stack Developer • Bug Bounty Hunter • Web3 Security Researcher
 
 - 🔭 Currently working on: fast web apps, security research & bug bounties, Web3
-- 🌱 Learning: smart contract auditing, AI automation, machine learning (Kaggle)
+- 🌱 Learning: smart contract auditing, machine learning
 - 💬 Ask me about: JavaScript, TypeScript, Python, web security
 
 ### Tools:
@@ -26,4 +26,3 @@ Full Stack Developer • Bug Bounty Hunter • Web3 Security Researcher
 ### Let's connect!
 
 [![X](https://img.shields.io/badge/-@0xuser01-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xuser01)
-[![Kaggle](https://img.shields.io/badge/-matlailpajri-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/matlailpajri)
