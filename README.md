@@ -17,11 +17,26 @@ Full Stack Developer • Bug Bounty Hunter • Web3 Security Researcher
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=Mamat9q)
 
+<table>
+<tr>
+<td valign="top">
+
 ### Stats:
 
 ![Mamat9q's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamat9q&show_icons=true&hide_rank=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamat9q)
+
+</td>
+<td valign="top">
+
+### My Workspace
+
+![A Day In My Life](workspace.png)
+
+</td>
+</tr>
+</table>
 
 ### Let's connect!
 
